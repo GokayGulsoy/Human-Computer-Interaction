@@ -7,5 +7,6 @@ Concepts and history of human computer interaction,input devices and interaction
 ## Practical Contents
 Course convers the UI/UX design principles by applying them in practice with Figma UI/UX desing software, implementing the principles in a practical software project, by following software development life cycle, starting with the architecture, continuing with design, and implementation, testing in an agile way.   
 
-[Click for the Course textbook](
+[Click for the Course textbook](I.Scott_MacKenzie _Human_Compute_ Interaction_ An_Empirical_Research_Perspective.pdf)
+
 [Click for the Figma website link](https://www.figma.com/)
